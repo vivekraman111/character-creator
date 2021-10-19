@@ -1,2 +1,7 @@
 .buttonRow {
+	/* changed */
+	overflow: auto;
+	white-space: nowrap;
+	padding:  30px 0;
+	/* changed */
 }
